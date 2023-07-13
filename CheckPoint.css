@@ -1,0 +1,11 @@
+
+.izquierda{
+    width: 20%;
+    height: 100%;
+    background-color: aliceblue;
+}
+
+.navbar{
+    display: inline;
+    background-color: gray;
+}
